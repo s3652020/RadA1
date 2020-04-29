@@ -6,6 +6,10 @@ ruby '2.5.7'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.4', '>= 5.2.4.1'
 
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3' 
+
+gem 'rails-ujs', '~> 0.1.0' 
+
 gem 'bcrypt', '3.1.13' 
 # bootstrap
 gem 'bootstrap-sass', '3.3.7'
